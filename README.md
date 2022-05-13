@@ -1,4 +1,4 @@
-### Git-Github 
+# Git-Github 
 
 [CLI] => Command line interface
 
@@ -20,7 +20,7 @@ eso te van a evaluar
 [10:56 AM]
 que sepas ir moviendo cambios pequeños a travez de tu arbol de trabajo
 
-# Git Commands:
+## Git Commands:
 
 [pull] => The opposite of push => Download changes from remote repo to your local machine.
 `Basically you PULL changes` 
