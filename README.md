@@ -20,12 +20,16 @@ eso te van a evaluar
 [10:56 AM]
 que sepas ir moviendo cambios pequeños a travez de tu arbol de trabajo
 
-## Git Commands:
+## Git Commands
 
 [pull] => The opposite of push => Download changes from remote repo to your local machine.
 `Basically you PULL changes` 
-<<<<<<< HEAD
 
-[status] => Me muestra todo aquello que fue created, upadate or deleted pero aun no ha sido commited
-=======
->>>>>>> 0065c62e43119842cf047ba5ae91708496d3d095
+[status] => Me muestra todo aquello que fue created, upadate or deleted pero aun no ha sido commited.
+
+ git remote add origin [gitLinkCopied]
+ git remote -v => [comprobasVerison] 
+ git push origin master => Para que se vuelval el spot default del push => git push **-u** origin master
+
+
+## Git branching
