@@ -33,3 +33,11 @@ que sepas ir moviendo cambios pequeños a travez de tu arbol de trabajo
 
 
 ## Git branching
+
+1) At first the code in master and the [branch] => `Will be exactly the same` => A medida que vas codeando en la feature branch => those changes are only seen in this feature branch.
+Todos los changes y commits en esa feature branch son ppios de esa Branch! => **When you switch up to the master branch you wont be able to see those changes**
+
+**commands**: 
+1. git checkout [-b] [branchName]
+2. git branch => `Let you know in what branch you standing`
+3. get checkout [branchName] => `Moves you to [branchName] u picked`
